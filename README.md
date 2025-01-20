@@ -4,12 +4,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer | Angular Enthusiast | UI/UX Collaborator
 -------------------------------------------------------------
 
-I am a passionate front-end developer with 5+ years of experience building dynamic, user-friendly web applications. My expertise lies in crafting responsive and performant interfaces using Angular, along with modern web technologies like TypeScript, JavaScript, HTML5, and CSS3. I thrive in Agile environments, collaborating with cross-functional teams to deliver clean, scalable, and maintainable code. What I Bring to the Table 🚀 Proficient in building modular, reusable components in Angular. 🎨 Skilled at turning Figma/Adobe designs into seamless, interactive UIs. ⚙️ Hands-on experience in optimizing front-end performance and accessibility. 📦 Familiar with tools and libraries like RxJS, Angular Material, and NgRx for state management. Notable Projects 💻 KAB (Professor Management System): Streamlined operations for educational institutions with an intuitive Angular-based platform. 📊 VedamEdu: Delivered a sleek and interactive educational portal for students and educators. 📱 Secure Assets: Helped users manage daily expenses by creating a visually intuitive web application.
+I am a passionate front-end developer with 5+ years of experience building dynamic, user-friendly web applications.<br>
+My expertise lies in crafting responsive and performant interfaces using Angular, along with modern web technologies like TypeScript, JavaScript, HTML5, and CSS3.<br>
+I thrive in Agile environments, collaborating with cross-functional teams to deliver clean, scalable, and maintainable code.<br>
+### What I Bring to the Table<br>
+🚀 Proficient in building modular, reusable components in Angular.<br>
+🎨 Skilled at turning Figma/Adobe designs into seamless, interactive UIs.<br>
+⚙️ Hands-on experience in optimizing front-end performance and accessibility.<br>
+📦 Familiar with tools and libraries like RxJS, Angular Material, and NgRx for state management.<br>
+### Notable Projects<br>
+💻 KAB (Professor Management System): Streamlined operations for educational institutions with an intuitive Angular-based platform.<br>
+📊 VedamEdu: Delivered a sleek and interactive educational portal for students and educators.<br>
+📱 Secure Assets: Helped users manage daily expenses by creating a visually intuitive web application.<br>
 
-*   🌍  I'm based in India
-*   ✉️  You can contact me at [sameerwani31@gmail.com](mailto:sameerwani31@gmail.com)
-*   🧠  I'm learning React
-*   🤝  I'm open to collaborating on Angular & TypeScript Projects UI/UX Design & Front-End Development Performance Optimization & Accessibility Enhancements Agile Team Environments Cross-functional Collaboration on Full-Stack Applications
+🌍  I'm based in India <br>
+✉️  You can contact me at [sameerwani31@gmail.com](mailto:sameerwani31@gmail.com) <br>
+🧠  I'm learning React <br>
+🤝  I'm open to collaborating on<br>
+* Angular Projects
+* UI/UX Design & Front-End Development
+* Performance Optimization & Accessibility Enhancements
+* Agile Team Environments
+* Cross-functional Collaboration on Full-Stack Applications
   
   ### Skills 
 <p align="left">
