@@ -1,53 +1,107 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sami ullah wani
-=======================================================================================================================================
+# Hi 👋 I’m Sami Ullah Wani
 
-Front-End Developer | Angular Enthusiast | UI/UX Collaborator
--------------------------------------------------------------
+**Senior Front-End Developer | Angular Specialist | UI/UX Engineer | Generative AI Explorer**
 
-I am a passionate front-end developer with 5+ years of experience building dynamic, user-friendly web applications.<br>
-My expertise lies in crafting responsive and performant interfaces using Angular, along with modern web technologies like TypeScript, JavaScript, HTML5, and CSS3.<br>
-I thrive in Agile environments, collaborating with cross-functional teams to deliver clean, scalable, and maintainable code.<br>
-### What I Bring to the Table<br>
-🚀 Proficient in building modular, reusable components in Angular.<br>
-🎨 Skilled at turning Figma/Adobe designs into seamless, interactive UIs.<br>
-⚙️ Hands-on experience in optimizing front-end performance and accessibility.<br>
-📦 Familiar with tools and libraries like RxJS, Angular Material, and NgRx for state management.<br>
-### Notable Projects<br>
-💻 KAB (Professor Management System): Streamlined operations for educational institutions with an intuitive Angular-based platform.<br>
-📊 VedamEdu: Delivered a sleek and interactive educational portal for students and educators.<br>
-📱 Secure Assets: Helped users manage daily expenses by creating a visually intuitive web application.<br>
+I’m a front-end developer with **5+ years of professional experience** building scalable, high-performance web applications.  
+My core strength lies in **Angular-driven architectures**, modern UI engineering, and close collaboration with designers and backend teams to ship reliable, accessible, and maintainable products.
 
-🌍  I'm based in India <br>
-✉️  You can contact me at [sameerwani31@gmail.com](mailto:sameerwani31@gmail.com) <br>
-🧠  I'm learning React <br>
-🤝  I'm open to collaborating on<br>
-* Angular Projects
-* UI/UX Design & Front-End Development
-* Performance Optimization & Accessibility Enhancements
-* Agile Team Environments
-* Cross-functional Collaboration on Full-Stack Applications
-  
-  ### Skills 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+I care deeply about **code quality, performance, and user experience** — and I’m actively integrating **Generative AI** into modern front-end workflows to build smarter, more adaptive applications.
 
-### Socials
+---
+
+## 🚀 What I Do Best
+
+- Architect **modular, reusable Angular applications** using best practices  
+- Translate **Figma / Adobe XD designs** into pixel-perfect, accessible UIs  
+- Optimize front-end performance, bundle size, and runtime behavior  
+- Build maintainable state flows using **RxJS & NgRx**  
+- Collaborate in **Agile/Scrum environments** with cross-functional teams  
+- Integrate **Generative AI features** into user-facing applications  
+
+---
+
+## 🤖 Generative AI Experience
+
+I’m actively working with **Generative AI systems** to enhance front-end products and developer workflows:
+
+- Integrating **AI-powered chat & assistant features** into Angular applications  
+- Designing UI patterns for **LLM-driven experiences** (chat, suggestions, summaries)  
+- Working with **REST APIs & SDKs** for AI model consumption  
+- Implementing **prompt-based workflows** for smarter UX personalization  
+- Exploring AI-assisted **content generation, form automation, and insights dashboards**  
+- Applying AI to improve **developer productivity** (code generation, refactoring, testing ideas)
+
+> My focus is practical AI — not demos — but features that genuinely improve usability and efficiency.
+
+---
+
+## 🧩 Notable Projects
+
+**💻 KAB – Professor Management System**  
+Angular-based platform that streamlined academic operations with role-based access, optimized workflows, and a clean UI.
+
+**📊 VedamEdu**  
+An interactive educational portal delivering engaging learning experiences for students and educators.
+
+**📱 Secure Assets**  
+A visually intuitive expense-management application focused on clarity, usability, and performance.
+
+---
+
+## 🛠 Tech Stack
+
+### Front-End
+- Angular, TypeScript, JavaScript  
+- HTML5, CSS3, Tailwind CSS, Bootstrap  
+- Angular Material, Material UI  
+
+### State & Architecture
+- RxJS, NgRx  
+- Modular & standalone component architecture  
+
+### Backend & Data
+- Node.js, Express  
+- MongoDB, MySQL, Oracle  
+- Firebase  
+
+### Design & Collaboration
+- Figma, Adobe Photoshop  
+- Agile / Scrum workflows  
+
+### AI & Modern Tooling
+- Generative AI APIs & integrations  
+- AI-assisted UX patterns  
+- Prompt engineering fundamentals  
+
+---
+
+## 🌍 About Me
+
+- 📍 Based in **India**  
+- ✉️ Reach me at **sameerwani31@gmail.com**  
+- 🧠 Currently expanding expertise in **React & Generative AI**  
+- 🤝 Open to collaboration on:
+  - Angular & Front-End Projects  
+  - UI/UX Engineering  
+  - Performance Optimization & Accessibility  
+  - AI-powered Web Applications  
+  - Cross-functional Full-Stack Teams  
+
+---
+
+## 🔗 Connect With Me
+
 <p align="left">
   <a href="https://www.github.com/sami1319" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/samiwani" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
 </p>
 
-<a href="https://github.com/sami1319" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami1319&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-        
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami1319&langs_count=8&layout=compact&hide_border=true&bg_color=1c1917&text_color=ffffff&title_color=0891b2" />
+</p>
